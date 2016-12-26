@@ -40,10 +40,10 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="index.html">HOME</a></li>
+            <li><a href="index.html">HOME</a></li>
             <li><a href="jon.html">About Me</a></li>
             <li><a href="charsheet.html">Character Sheet</a></li>
-            <li><a href="pydnd.html">PyD&D</a></li>
+            <li class="active"><a href="pydnd.html">PyD&D</a></li>
             <li><a data-toggle="modal" data-target="#myModal" href="#myModal"><i class="fa fa-envelope-o"></i></a></li>
           </ul>
         </div><!--/.nav-collapse -->
@@ -61,54 +61,42 @@
 	</div><!-- headerwrap -->
 
 
-	<div class="container w">
-		<div class="row centered">
+	<div class="container desc">
+		<div class="row">
 			<br><br>
-			<div class="col-lg-4">
-				<i class="fa fa-mobile"></i>
-				<h4>Character Sheet</h4>
-				<p>A D&D 3.5e character sheet in handy android app format. The app automatically calculates bonuses and fills out class features so you only have to fill in the most basic aspects of your character. After that, watch your entire sheet update for any minor change. DM turns you in a troglodyte? Alter your Dex and Con and watch your skills drop and your hitpoints rise. <b>This example is for illustration and not at all the experience that produced this app.</b> </p>
-			</div><!-- col-lg-4 -->
+			<div class="col-lg-6">
+				<img src="img/pydnd/enemies.png" alt="" height=400 width=100%>
+			</div><!-- col-lg-6 -->
+			<div class="col-lg-6">
+				<h4>What It Is</h4>
+				<p>PyD&D is an free, open source python app for designing and running encounters. In three separate tabs you design encounters, manage your party, and run saved encounters.   </p>
+				<p>PyD&D is available on <a href="https://github.com/jonholdship/pydnd">GitHub</a> and requires GTK 3+ and python to run.</p>
+			</div>
+		</div><!-- row -->		
 
-			<div class="col-lg-4">
-				<i class="fa fa-laptop"></i>
-				<h4>PyD&D</h4>
-				<p>Python/GTK program for DMs. Design and run encounters without calculating <b>anything</b>. Simply fill out the basic details of your party and build encounters by filtering through the entire SRD monster list. Encounter levels, XP and treasure rewards are all calculated according the DM's guide tables and presented in the encounter builder so you know exactly what encounters and rewards are appropriate.</p>
-			</div><!-- col-lg-4 -->
+		<div class="row">
+			<br><br>
+			<div class="col-lg-6">
+				<img src="img/pydnd/party.png" alt="" height=400 width=100%>
+			</div><!-- col-lg-6 -->
+			<div class="col-lg-6">
+				<h4>Parties and Encounter Levels</h4>
+				<p>The encounter design tab lets you search and filter the entire SRD monster list to find the perfect opponents for your party. You can search by CR, type, size or even location when looking for inspiration. A search bar allows you to quickly find monsters you want.</p>
+				<p>The encounter designer also combines monster CRs to give encounter levels and uses the ECL of your current party members to calculate the average XP per character and the treasure that should be awarded according to the 3.5e DMG. To do this, you simply fill out the basic details of your party in the party tab. </p>
+			</div>
+		</div><!-- row -->		
 
-			<div class="col-lg-4">
-				<i class="fa fa-question"></i>
-				<h4>What <i>is</i> this?</h4>
-				<p>You may have been looking for something more serious? My Github also plays host to <a href="https://uclchem.github.io">UCLCHEM</a>, which is a gas-grain chemical code for astrophysics written in modern Fortran.</p>
-			</div><!-- col-lg-4 -->
-		</div><!-- row -->
-		<br>
-		<br>
+		<div class="row">
+			<br><br>
+			<div class="col-lg-6">
+				<img src="img/pydnd/battle.png" alt="" height=400 width=100%>
+			</div><!-- col-lg-6 -->
+			<div class="col-lg-6">
+				<h4>Run it!</h4>
+				<p>In the final tab, you can run any encounter you've designed and saved. The battle tab shows your party and enemies in two separate lists for you to keep track of initiative and HP. It also displays the SRD stats of each enemy is displayed on screen so you know exactly what your monsters can do. Pressing start rolls initiative for anyone you haven't already filled in and then highlights the character who will go first.</p>
+			</div>
+		</div><!-- row -->		
 	</div><!-- container -->
-
-<!--
-	<div id="lg">
-		<div class="container">
-			<div class="row centered">
-				<h4>OUR AWESOME CLIENTS</h4>
-				<div class="col-lg-2 col-lg-offset-1">
-					<img src="img/c01.gif" alt="">
-				</div>
-				<div class="col-lg-2">
-					<img src="img/c02.gif" alt="">
-				</div>
-				<div class="col-lg-2">
-					<img src="img/c03.gif" alt="">
-				</div>
-				<div class="col-lg-2">
-					<img src="img/c04.gif" alt="">
-				</div>
-				<div class="col-lg-2">
-					<img src="img/c05.gif" alt="">
-				</div>
-	<!--		</div><!-- row -->
-	<!--	</div><!-- container -->
-	<!--</div><!-- dg -->
 	
 	
 	<div id="primary">
@@ -128,7 +116,7 @@
 		<div class="container">
 			<div class="row centered">
 				<a href="https://github.com/jonholdship/"><i class="fa fa-github"></i></a><a href="https://uk.linkedin.com/in/jonathan-holdship-106858131"><i class="fa fa-linkedin"></i></a>
-				<a href="https://twitter.com/DuckSaxaphone"><i class="fa fa-twitter"></i><a>
+						<a href="https://twitter.com/DuckSaxaphone"><i class="fa fa-twitter"></i><a>
 			</div><!-- row -->
 		</div><!-- container -->
 	</div><!-- Footer -->
