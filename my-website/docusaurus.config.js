@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Jon Holdship',
   tagline: 'Astrophysics PDRA and NHS Data Scientist',
-  url: 'https://joholdship.github.io',
+  url: 'https://jonholdship.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icon.png',
   organizationName: 'jonholdship', // Usually your GitHub org/user name.
-  projectName: 'joholdship.github.io', // Usually your repo name.
+  projectName: 'jonholdship.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Jon Holdship',
