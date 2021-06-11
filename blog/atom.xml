@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://joholdship.github.io/blog</id>
+    <id>https://jonholdship.github.io/blog</id>
     <title>Jon Holdship Blog</title>
     <updated>2099-08-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://joholdship.github.io/blog"/>
+    <link rel="alternate" href="https://jonholdship.github.io/blog"/>
     <subtitle>Jon Holdship Blog</subtitle>
-    <icon>https://joholdship.github.io/img/icon.png</icon>
+    <icon>https://jonholdship.github.io/img/icon.png</icon>
     <entry>
         <title type="html"><![CDATA[Full Publication List]]></title>
         <id>all</id>
-        <link href="https://joholdship.github.io/blog/all"/>
+        <link href="https://jonholdship.github.io/blog/all"/>
         <updated>2099-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[My full publication list can be found on ADS with my first author only papers available here.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[ORBYTS - Protostellar Outflows]]></title>
         <id>orbyts</id>
-        <link href="https://joholdship.github.io/blog/orbyts"/>
+        <link href="https://jonholdship.github.io/blog/orbyts"/>
         <updated>2019-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Observations of CH3OH and CH3CHO in a Sample of Protostellar Outflow Sources]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bayesian Inference of Surface Rates]]></title>
         <id>bayes</id>
-        <link href="https://joholdship.github.io/blog/bayes"/>
+        <link href="https://jonholdship.github.io/blog/bayes"/>
         <updated>2018-10-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bayesian Inference of the Rates of Surface Reactions in Icy Mantles]]></summary>
     </entry>
