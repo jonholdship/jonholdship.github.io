@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Jon Holdship Blog</title>
+        <link>https://joholdship.github.io/blog</link>
+        <description>Jon Holdship Blog</description>
+        <lastBuildDate>Sat, 01 Aug 2099 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Full Publication List]]></title>
+            <link>https://joholdship.github.io/blog/all</link>
+            <guid>all</guid>
+            <pubDate>Sat, 01 Aug 2099 00:00:00 GMT</pubDate>
+            <description><![CDATA[My full publication list can be found on ADS with my first author only papers available here.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ORBYTS - Protostellar Outflows]]></title>
+            <link>https://joholdship.github.io/blog/orbyts</link>
+            <guid>orbyts</guid>
+            <pubDate>Thu, 01 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Observations of CH3OH and CH3CHO in a Sample of Protostellar Outflow Sources]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Bayesian Inference of Surface Rates]]></title>
+            <link>https://joholdship.github.io/blog/bayes</link>
+            <guid>bayes</guid>
+            <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bayesian Inference of the Rates of Surface Reactions in Icy Mantles]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[221],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Full Publication List","permalink":"/blog/all"},{"title":"ORBYTS - Protostellar Outflows","permalink":"/blog/orbyts"},{"title":"Bayesian Inference of Surface Rates","permalink":"/blog/bayes"}]}')}}]);

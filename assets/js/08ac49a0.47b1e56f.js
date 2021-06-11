@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[92],{486:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"astrochemistry","name":"astrochemistry","count":1,"permalink":"/blog/tags/astrochemistry"}')}}]);
