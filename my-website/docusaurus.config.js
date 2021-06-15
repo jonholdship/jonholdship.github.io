@@ -61,11 +61,12 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Jon Holdship Built with Docusaurus.`,
     },
-    googleAnalytics: {
+    gtag: {
+      // You can also use your "G-" Measurement ID here.
       trackingID: 'G-9KDD2SRLZV',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
-      },
+    },
   },
   presets: [
     [
@@ -84,4 +85,5 @@ module.exports = {
       },
     ],
   ],
+
 };
