@@ -15,17 +15,31 @@
         <summary type="html"><![CDATA[My full publication list can be found on ADS with my first author only papers available here.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ORBYTS - Protostellar Outflows]]></title>
+        <title type="html"><![CDATA[The Distribution and Origin of C2H in NGC 253 from ALCHEMI]]></title>
+        <id>c2h</id>
+        <link href="https://jonholdship.github.io/blog/c2h"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors: J. Holdship; S. Viti; S. Martín; N. Harada; J. Mangum; K. Sakamoto; S. Muller; K. Tanaka; Y. Yoshimura; K. Nakanishi; R. Herrero-Illana; S. Mühle; R. Aladro; L. Colzi; K. L. Emig; S. García-Burillo; C. Henkel; P. Humire; D. S. Meier; V. M. Rivilla; and P. van der Werf]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemulator - Fast, accurate thermochemistry for dynamical models]]></title>
+        <id>chemulator</id>
+        <link href="https://jonholdship.github.io/blog/chemulator"/>
+        <updated>2021-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors:  Holdship, Jonathan; Viti, Serena; Haworth, Thomas; Ilee, John]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observations of CH3OH and CH3CHO in a Sample of Protostellar Outflow Sources]]></title>
         <id>orbyts</id>
         <link href="https://jonholdship.github.io/blog/orbyts"/>
         <updated>2019-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Observations of CH3OH and CH3CHO in a Sample of Protostellar Outflow Sources]]></summary>
+        <summary type="html"><![CDATA[Authors:  Holdship, Jonathan; Viti, Serena; Codella, Claudio; Rawlings, Jonathan ; Jimenez-Serra, Izaskun; Ayalew, Yenabeb ; Curtis, Justin ; Habib, Annur ; Lawrence, Jamel ; Warsame, Sumaya ; Horn, Sarah]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bayesian Inference of Surface Rates]]></title>
+        <title type="html"><![CDATA[Bayesian Inference of the Rates of Surface Reactions in Icy Mantles]]></title>
         <id>bayes</id>
         <link href="https://jonholdship.github.io/blog/bayes"/>
         <updated>2018-10-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bayesian Inference of the Rates of Surface Reactions in Icy Mantles]]></summary>
+        <summary type="html"><![CDATA[Authors:  Holdship, J.; Jeffrey, N.; Makrymallis, A.; Viti, S.; Yates, J.]]></summary>
     </entry>
 </feed>
